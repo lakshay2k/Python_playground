@@ -14,3 +14,6 @@ My practice space for python projects
 
 ***Fourth Project:***
 -> CTC(ClearTheCluster): I created a Automated Organizer for our files that group them into respective folder as per their type.
+
+***Fifth Project:***
+-> Extract_Text_from_PDF: I created the program which extracts from text from PDF file and creates a Text file of it.
