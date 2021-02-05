@@ -20,3 +20,7 @@ My practice space for python projects
 
 ***Sixth Project:***
 -> PC(PasswordConvertor): I created a password convertor that will return a more encrypted and secure version of your password
+
+***Seventh Project:***
+-> ResumeShortlister: I created an keyword extracted from various files which helps in filtering the profile according to the user needs.
+                      The companies hiring candidates can use it to shortlist resume's based on profile.
