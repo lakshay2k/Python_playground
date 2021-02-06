@@ -24,3 +24,6 @@ My practice space for python projects
 ***Seventh Project:***
 -> ResumeShortlister: I created an keyword extracted from various files which helps in filtering the profile according to the user needs.
                       The companies hiring candidates can use it to shortlist resume's based on profile.
+
+***Eight Project:***
+-> CreateYourPassword: I created a program which takes dynamic output of length of password and returns the highly encrypted password.
