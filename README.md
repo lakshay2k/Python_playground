@@ -27,3 +27,6 @@ My practice space for python projects:
 
 ***Eight Project:***
 -> CreateYourPassword: I created a program which takes dynamic output of length of password and returns the highly encrypted password.
+
+***Ninth Project:***
+-> RockPaperScissors: The most famous and easy game played by two boring person, "Rock Paper Scissors". This project is easy and contains the main concept of If and Elif with Random function
