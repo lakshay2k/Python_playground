@@ -30,3 +30,6 @@ My practice space for python projects:
 
 ***Ninth Project:***
 -> RockPaperScissors: The most famous and easy game played by two boring person, "Rock Paper Scissors". This project is easy and contains the main concept of If and Elif with Random function
+
+***Tenth Project:***
+-> Calcii: My first python program using Tkinter, i have created a calculator which has functionalities like add, subtract, multiply, exponent, power, factorial and many more. It is a GUI based small Project
