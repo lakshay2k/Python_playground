@@ -33,3 +33,7 @@
 
 ***Tenth Project:***
 -> Calcii: My first python program using Tkinter, i have created a calculator which has functionalities like add, subtract, multiply, exponent, power, factorial and many more. It is a GUI based small Project
+
+
+***Eleventh Project:***
+-> Image Extracter: I created a program that extracts the photo from from the first page of document and saves it in the format of jpeg. This project can be used to extract the image from the resume and save it in our storage. 
